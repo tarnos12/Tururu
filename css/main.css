@@ -1,0 +1,28 @@
+body{
+    height: 200vh;
+    overflow: auto;
+}
+#content{
+    position: relative;
+}
+
+#textContent{
+    position: absolute;
+    width: 100%;
+    top: 70vh;
+    text-align: center;
+
+}
+.face {
+    position: absolute;
+    top: 90vh;
+    width: 50vh;
+}
+
+.left{
+    left: -600px;
+}
+
+.right{
+    right: -600px;
+}
